@@ -1,15 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-    <url>
-        <loc>http://notbalanced.github.io/blog/archives/</loc>
-        <lastmod>2013-05-14T22:02:23-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://notbalanced.github.io/</loc>
-        <lastmod>2013-05-14T22:02:23-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://notbalanced.github.io/robots.txt</loc>
-        <lastmod>2013-05-14T22:02:23-04:00</lastmod>
-    </url>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://moyr.net/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://moyr.net/</loc>
+  </url>
+  
+  <url>
+    <loc>http://moyr.net/tags/</loc>
+  </url>
+  
 </urlset>
